@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="//192.168.21.200/dac_feb_2020/CodingSamples/Spring_Jars/Day1-Spring/Day1-Spring/Core jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="//192.168.21.200/dac_feb_2020/CodingSamples/Spring_Jars/Day1-Spring/Day1-Spring/Core jars/spring-beans-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//192.168.21.200/dac_feb_2020/CodingSamples/Spring_Jars/Day1-Spring/Day1-Spring/Core jars/spring-context-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//192.168.21.200/dac_feb_2020/CodingSamples/Spring_Jars/Day1-Spring/Day1-Spring/Core jars/spring-core-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//192.168.21.200/dac_feb_2020/CodingSamples/Spring_Jars/Day1-Spring/Day1-Spring/Core jars/spring-expression-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="//192.168.21.200/dac_feb_2020/CodingSamples/Spring_Jars/Day1-Spring/Day1-Spring/spring-aop-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
